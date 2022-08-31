@@ -97,4 +97,3 @@ class Except71to10
 		
 	}
 }
-
